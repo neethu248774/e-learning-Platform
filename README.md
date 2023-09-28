@@ -1,2 +1,1 @@
-# V-Academy
-V-Academy is a sample e-learning platform with angular framework as front-end and Spring (Boot + Security) along with MySQL server as back-end.
+This is an e-learning platform project done using Angular and springBoot where user can view and enroll to courses where the intructor and view ,add ,delete the courses and admin can approve or reject the instructor based on qualification
